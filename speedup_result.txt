@@ -1,0 +1,10 @@
+speedup=5.126776, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110 
+speedup=4.340755, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110 
+speedup=4.589838, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
+speedup=4.563326, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110 
+speedup=5.424584, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
+speedup=4.914653, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
+speedup=3.180164, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
+speedup=3.680583, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
+speedup=4.489459, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
+speedup=4.936097, number of people=10000, number thread=8, total simulation time=50, max_x=110, max_y=110
